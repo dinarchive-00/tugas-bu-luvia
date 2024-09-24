@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Website</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+    <header>
+        <h1>My Website</h1>
+        <p>A responsive website created by me.</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Link</a></li>
+            <li><a href="#">Link</a></li>
+        </ul>
+    </nav>
+
+    <div class="row">
+        <aside class="side">
+            <h2>About Me</h2>
+            <div class="photo-box">Photo of me:</div>
+            <p>Some text about me in culpa qui officia deserunt mollit anim..</p>
+            <h3>More Text</h3>
+            <p>Lorem ipsum dolor sit amet.</p>
+            <div class="image-box">Image</div>
+            <div class="image-box">Image</div>
+            <div class="image-box">Image</div>
+        </aside>
+
+        <section class="main">
+            <article>
+                <h2>Title Heading</h2>
+                <p>Title description, Dec 7, 2017</p>
+                <div class="image-box">Image</div>
+                <p>Some text.. Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit...</p>
+            </article>
+
+            <article>
+                <h2>Title Heading</h2>
+                <p>Title description, Sep 2, 2017</p>
+                <div class="image-box">Image</div>
+                <p>Some text.. Sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit...</p>
+            </article>
+        </section>
+    </div>
+
+    <footer>
+        <p>Footer</p>
+    </footer>
+
+</body>
+</html>
